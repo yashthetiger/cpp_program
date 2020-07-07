@@ -16,7 +16,7 @@ int main()
 	return 0;
 }
 
-//2.program to print the product of two numbers
+//2.program to print the product of two numbers entered by user
 #include<iostream>
 using namespace std;
 int main()
